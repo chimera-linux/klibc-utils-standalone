@@ -22,6 +22,7 @@
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include <stddef.h> /* klibc-tools-standalone */
 #include <string.h>
 #include <sys/types.h>
 #include <sys/stat.h>
